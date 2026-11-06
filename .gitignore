@@ -1,0 +1,9 @@
+*.log
+*.tgz
+build/
+dist/
+npm-debug.log*
+.cache/
+.DS_Store
+.env.local
+.next/
